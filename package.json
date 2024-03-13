@@ -1,0 +1,21 @@
+{
+  "name": "mirrormarketmoods",
+  "version": "1.0.1",
+  "description": "A visualization dashboard for cryptocurrency market sentiment and analytics, powered by Web3WisdomWand.",
+  "main": "MirrorMarketMoods.js",
+  "scripts": {
+    "start": "node MirrorMarketMoods.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flylofi/mirrormarketmoods.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3wisdomwand": "^1.0.0",
+    "chatcryptic": "^1.0.0",
+    "path": "^0.12.7"
+  },
+  "author": "flylofi",
+  "license": "MIT"
+}
